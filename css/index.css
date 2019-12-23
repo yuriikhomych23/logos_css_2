@@ -1,0 +1,30 @@
+* {
+    border: none;
+    text-decoration: none;
+    list-style: none;
+}
+body {
+    background-image: url(img.poy.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.wrapper {
+    width: 100px;
+    height: 100px;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 50px;
+}
+.color {
+    width: 20px;
+    height: 20px;
+    background: blue;
+}
+
+.right {
+float: right;
+overflow: hidden;
+}
+.left {
+    float: left;
+}
